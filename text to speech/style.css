@@ -1,0 +1,27 @@
+.heading {
+    font-family: monospace;
+    font-weight: normal;
+    font-style: oblique;
+    -ms-flex-align: center;
+    text-align: center; 
+  }
+  
+
+.p{
+    text-align: center;
+    font-family: monospace;
+}
+
+body {
+    background-color:aquamarine
+}
+
+input[type="text"] {
+    width: 800px;
+    height: 400px;
+  }
+
+.logic{
+    -ms-flex-align: center;
+    text-align: center; 
+}
